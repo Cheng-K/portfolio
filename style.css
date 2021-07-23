@@ -1,0 +1,49 @@
+body {
+    background : url("images/background.jpg");
+    background-size : cover;
+}
+
+#container {
+    background : #1d3557;
+    padding-left : 5px;
+    padding-right : 5px;
+    padding-top : 20px;
+    padding-bottom:50px;
+    width : 800px;
+    color : #f1faee;
+    font-size : 14pt;
+    font-family: 'Josefin Sans', sans-serif;
+    margin : auto;
+    text-align: center;
+}
+
+h1 {
+    color : #e63946;
+    font-size: 60pt;
+    font-family: 'Zilla Slab', serif;
+}
+
+h2 {
+    background : #f1faee;
+    color : #1d3557;
+    border-radius: 6px;
+    padding-left : 5px;
+    font-size : 20pt;
+    font-family : "Zilla Slab", serif;
+}
+
+p {
+    padding : 10px;
+    line-height: 200%;
+}
+
+ul {
+    line-height: 200%;
+}
+iframe {
+    margin-left : 80px;
+}
+
+a{
+    color : #a8dadc;
+}
